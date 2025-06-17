@@ -3,7 +3,7 @@
 A Python-based web scraping agent that combines Playwright browser automation with OpenAI's structured output capabilities to extract and parse course information from websites.
 
 <div align="center">
-  <img src="screenshot.png" alt="Web Scraping Agent in action" width="800"/>
+  <img src="./Screenshot.png" alt="Web Scraping Agent in action" width="800"/>
   <p><em>Web Scraping Agent extracting course data from deeplearning.ai</em></p>
 </div>
 
