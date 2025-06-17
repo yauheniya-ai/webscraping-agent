@@ -1,0 +1,13 @@
+# uv venv --python=3.12
+# -> activate the new environemnt
+# uv pip install -r requirements.txt
+pandas==2.2.3
+playwright==1.51.0
+openai==1.70.0
+pydantic==2.11.1
+tabulate==0.9.0
+python-dotenv==1.1.0
+ipykernel
+jupyter
+
+# playwright install
